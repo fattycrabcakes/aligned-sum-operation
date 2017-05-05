@@ -1,0 +1,25 @@
+{
+  "name": "aligned-sum-operation",
+  "version": "1.0.0",
+  "description": "Aligns and sums values of unequal length without floating point errors",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "addition",
+    "math",
+    "plus",
+    "making-numbers-bigger",
+    "not-subtraction",
+    "not-minus"
+  ],
+  "author": "Fatty Crabcakes",
+  "maintainers": [
+    {
+      "name": "Roscoe 'Tits' Gilhooley",
+      "email": "johngaltatemyballs@gmail.com"
+    }
+  ],
+  "license": "WTFPL"
+}
